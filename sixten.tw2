@@ -1,0 +1,1943 @@
+::scoreboard
+Your score: <%= story.state.variables.score %>
+::Twee2Settings [twee2]
+@story_start_name = 'Start Here...'
+::Configuration [twee2]
+Twee2::build_config.story_format = 'Snowman'
+::StoryTitle
+Chapter 6-10 Test
+::Start Here... [instructions]
+<script>
+story.state.variables = {};
+var _stats = story.state.variables;
+_stats.score = 1000;
+</script>
+[[Let's go!|1. In the U. S. Government Survey System, which lines run parallel to the principal base line?]]
+::1. In the U. S. Government Survey System, which lines run parallel to the principal base line?
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>1. In the U. S. Government Survey System, which lines run parallel to the principal base line? </h3>
+<ul>
+<li>[[a. township line]]</li>
+<li>[[b. meridian line]]</li>
+<li>[[c. range line]]</li>
+<li>[[d. survey line]]</li>
+</ul>
+</div>
+::a. township line
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|2. A person who makes a will is the:]]
+</div>
+::b. meridian line
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|2. A person who makes a will is the:]]
+</div>
+::c. range line
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|2. A person who makes a will is the:]]
+</div>
+::d. survey line
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|2. A person who makes a will is the:]]
+</div>
+::2. A person who makes a will is the:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>2. A person who makes a will is the: </h3>
+<ul>
+<li>[[a. executor (trix).]]</li>
+<li>[[b. administrator (trix).]]</li>
+<li>[[c. devisor (ee).]]</li>
+<li>[[d. testator (trix).]]</li>
+</ul>
+</div>
+::a. executor (trix).
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|3. When possession of land includes open and notorious use for 5 years, hostile to the owner's wishes, and payment of property taxes, this best describes:]]
+</div>
+::b. administrator (trix).
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|3. When possession of land includes open and notorious use for 5 years, hostile to the owner's wishes, and payment of property taxes, this best describes:]]
+</div>
+::c. devisor (ee).
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|3. When possession of land includes open and notorious use for 5 years, hostile to the owner's wishes, and payment of property taxes, this best describes:]]
+</div>
+::d. testator (trix).
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|3. When possession of land includes open and notorious use for 5 years, hostile to the owner's wishes, and payment of property taxes, this best describes:]]
+</div>
+::3. When possession of land includes open and notorious use for 5 years, hostile to the owner's wishes, and payment of property taxes, this best describes:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>3. When possession of land includes open and notorious use for 5 years, hostile to the owner's wishes, and payment of property taxes, this best describes: </h3>
+<ul>
+<li>[[a. intestate succession.]]</li>
+<li>[[b. accession title.]]</li>
+<li>[[c. alluvion ownership.]]</li>
+<li>[[d. adverse possession.]]</li>
+</ul>
+</div>
+::a. intestate succession.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|4. The passing of real property thought probate is called:]]
+</div>
+::b. accession title.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|4. The passing of real property thought probate is called:]]
+</div>
+::c. alluvion ownership.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|4. The passing of real property thought probate is called:]]
+</div>
+::d. adverse possession.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|4. The passing of real property thought probate is called:]]
+</div>
+::4. The passing of real property thought probate is called:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>4. The passing of real property thought probate is called: </h3>
+<ul>
+<li>[[a. devise.]]</li>
+<li>[[b. eminent domain.]]</li>
+<li>[[c. police power.]]</li>
+<li>[[d. condemnation.]]</li>
+</ul>
+</div>
+::a. devise.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|5. Which of the following is not required for a deed to be valid?]]
+</div>
+::b. eminent domain.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|5. Which of the following is not required for a deed to be valid?]]
+</div>
+::c. police power.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|5. Which of the following is not required for a deed to be valid?]]
+</div>
+::d. condemnation.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|5. Which of the following is not required for a deed to be valid?]]
+</div>
+::5. Which of the following is not required for a deed to be valid?
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>5. Which of the following is not required for a deed to be valid? </h3>
+<ul>
+<li>[[a. signature of grantor]]</li>
+<li>[[b. granting clause]]</li>
+<li>[[c. date]]</li>
+<li>[[d. must be in writing]]</li>
+</ul>
+</div>
+::a. signature of grantor
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|6. Chang deeds to Lopez and Lopez takes possession but does not record the deed. Chang then tells his friend Jones about the deed to Lopez. Chang then deeds the same property to Jones, who records the deed. Based on this information, title probably vests in:]]
+</div>
+::b. granting clause
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|6. Chang deeds to Lopez and Lopez takes possession but does not record the deed. Chang then tells his friend Jones about the deed to Lopez. Chang then deeds the same property to Jones, who records the deed. Based on this information, title probably vests in:]]
+</div>
+::c. date
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|6. Chang deeds to Lopez and Lopez takes possession but does not record the deed. Chang then tells his friend Jones about the deed to Lopez. Chang then deeds the same property to Jones, who records the deed. Based on this information, title probably vests in:]]
+</div>
+::d. must be in writing
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|6. Chang deeds to Lopez and Lopez takes possession but does not record the deed. Chang then tells his friend Jones about the deed to Lopez. Chang then deeds the same property to Jones, who records the deed. Based on this information, title probably vests in:]]
+</div>
+::6. Chang deeds to Lopez and Lopez takes possession but does not record the deed. Chang then tells his friend Jones about the deed to Lopez. Chang then deeds the same property to Jones, who records the deed. Based on this information, title probably vests in:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>6. Chang deeds to Lopez and Lopez takes possession but does not record the deed. Chang then tells his friend Jones about the deed to Lopez. Chang then deeds the same property to Jones, who records the deed. Based on this information, title probably vests in: </h3>
+<ul>
+<li>[[a. Lopez.]]</li>
+<li>[[b. Chang.]]</li>
+<li>[[c. Jones.]]</li>
+<li>[[d. both Lopez and Jones.]]</li>
+</ul>
+</div>
+::a. Lopez.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|7. A sequential list of owners for a parcel of real estate is called:]]
+</div>
+::b. Chang.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|7. A sequential list of owners for a parcel of real estate is called:]]
+</div>
+::c. Jones.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|7. A sequential list of owners for a parcel of real estate is called:]]
+</div>
+::d. both Lopez and Jones.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|7. A sequential list of owners for a parcel of real estate is called:]]
+</div>
+::7. A sequential list of owners for a parcel of real estate is called:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>7. A sequential list of owners for a parcel of real estate is called: </h3>
+<ul>
+<li>[[a. constructive notice.]]</li>
+<li>[[b. chain of title.]]</li>
+<li>[[c. notarized record.]]</li>
+<li>[[d. deed of reconveyance.]]</li>
+</ul>
+</div>
+::a. constructive notice.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|8. A deed need not be recorded in order to be valid, but must be delivered. Effective delivery depends on:]]
+</div>
+::b. chain of title.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|8. A deed need not be recorded in order to be valid, but must be delivered. Effective delivery depends on:]]
+</div>
+::c. notarized record.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|8. A deed need not be recorded in order to be valid, but must be delivered. Effective delivery depends on:]]
+</div>
+::d. deed of reconveyance.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|8. A deed need not be recorded in order to be valid, but must be delivered. Effective delivery depends on:]]
+</div>
+::8. A deed need not be recorded in order to be valid, but must be delivered. Effective delivery depends on:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>8. A deed need not be recorded in order to be valid, but must be delivered. Effective delivery depends on: </h3>
+<ul>
+<li>[[a. valid acknowledgment by the grantor.]]</li>
+<li>[[b. physical transfer.]]</li>
+<li>[[c. intention of the grantor.]]</li>
+<li>[[d. knowledge of its existence by the grantee.]]</li>
+</ul>
+</div>
+::a. valid acknowledgment by the grantor.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|9. If a court proceeds to confirm a probate sale, the first additional bid must be what percent above the original bid?]]
+</div>
+::b. physical transfer.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|9. If a court proceeds to confirm a probate sale, the first additional bid must be what percent above the original bid?]]
+</div>
+::c. intention of the grantor.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|9. If a court proceeds to confirm a probate sale, the first additional bid must be what percent above the original bid?]]
+</div>
+::d. knowledge of its existence by the grantee.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|9. If a court proceeds to confirm a probate sale, the first additional bid must be what percent above the original bid?]]
+</div>
+::9. If a court proceeds to confirm a probate sale, the first additional bid must be what percent above the original bid?
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>9. If a court proceeds to confirm a probate sale, the first additional bid must be what percent above the original bid? </h3>
+<ul>
+<li>[[a. 5 percent on the first $10,000, 3 percent on the remainder]]</li>
+<li>[[b. 5 percent on the first $10,000 and any amount on the remainder]]</li>
+<li>[[c. 10 percent on the first $10,000, 5 percent on the remainder]]</li>
+<li>[[d. 10 percent on the first $10,000 and any amount on the remainder]]</li>
+</ul>
+</div>
+::a. 5 percent on the first $10,000, 3 percent on the remainder
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|10. Which of the following is not a principal baseline and meridian?]]
+</div>
+::b. 5 percent on the first $10,000 and any amount on the remainder
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|10. Which of the following is not a principal baseline and meridian?]]
+</div>
+::c. 10 percent on the first $10,000, 5 percent on the remainder
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|10. Which of the following is not a principal baseline and meridian?]]
+</div>
+::d. 10 percent on the first $10,000 and any amount on the remainder
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|10. Which of the following is not a principal baseline and meridian?]]
+</div>
+::10. Which of the following is not a principal baseline and meridian?
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>10. Which of the following is not a principal baseline and meridian? </h3>
+<ul>
+<li>[[a. Humboldt]]</li>
+<li>[[b. Mount Diablo]]</li>
+<li>[[c. Riverside]]</li>
+<li>[[d. San Bernardino]]</li>
+</ul>
+</div>
+::a. Humboldt
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|11. The highest form of ownership a person can have in a piece of property is:]]
+</div>
+::b. Mount Diablo
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|11. The highest form of ownership a person can have in a piece of property is:]]
+</div>
+::c. Riverside
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|11. The highest form of ownership a person can have in a piece of property is:]]
+</div>
+::d. San Bernardino
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|11. The highest form of ownership a person can have in a piece of property is:]]
+</div>
+::11. The highest form of ownership a person can have in a piece of property is:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>11. The highest form of ownership a person can have in a piece of property is: </h3>
+<ul>
+<li>[[a. fee simple absolute.]]</li>
+<li>[[b. fee simple qualified.]]</li>
+<li>[[c. life estate.]]</li>
+<li>[[d. testate estate.]]</li>
+</ul>
+</div>
+::a. fee simple absolute.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|12. Interest in real property held by a tenant:]]
+</div>
+::b. fee simple qualified.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|12. Interest in real property held by a tenant:]]
+</div>
+::c. life estate.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|12. Interest in real property held by a tenant:]]
+</div>
+::d. testate estate.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|12. Interest in real property held by a tenant:]]
+</div>
+::12. Interest in real property held by a tenant:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>12. Interest in real property held by a tenant: </h3>
+<ul>
+<li>[[a. freehold estate.]]</li>
+<li>[[b. fee estate.]]</li>
+<li>[[c. rental estate.]]</li>
+<li>[[d. less-than-freehold estate.]]</li>
+</ul>
+</div>
+::a. freehold estate.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|13. A valid joint tenancy must have the four unities of:]]
+</div>
+::b. fee estate.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|13. A valid joint tenancy must have the four unities of:]]
+</div>
+::c. rental estate.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|13. A valid joint tenancy must have the four unities of:]]
+</div>
+::d. less-than-freehold estate.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|13. A valid joint tenancy must have the four unities of:]]
+</div>
+::13. A valid joint tenancy must have the four unities of:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>13. A valid joint tenancy must have the four unities of: </h3>
+<ul>
+<li>[[a. time, title, interest, remainder.]]</li>
+<li>[[b. title, time, possession, interest.]]</li>
+<li>[[c. interest, right, possession, time.]]</li>
+<li>[[d. time, title, occupancy, possession.]]</li>
+</ul>
+</div>
+::a. time, title, interest, remainder.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|14. Johnson and Moscowitz hold title as tenants in common. Upon Johnson's death, Johnson's interest passes to:]]
+</div>
+::b. title, time, possession, interest.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|14. Johnson and Moscowitz hold title as tenants in common. Upon Johnson's death, Johnson's interest passes to:]]
+</div>
+::c. interest, right, possession, time.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|14. Johnson and Moscowitz hold title as tenants in common. Upon Johnson's death, Johnson's interest passes to:]]
+</div>
+::d. time, title, occupancy, possession.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|14. Johnson and Moscowitz hold title as tenants in common. Upon Johnson's death, Johnson's interest passes to:]]
+</div>
+::14. Johnson and Moscowitz hold title as tenants in common. Upon Johnson's death, Johnson's interest passes to:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>14. Johnson and Moscowitz hold title as tenants in common. Upon Johnson's death, Johnson's interest passes to: </h3>
+<ul>
+<li>[[a. Johnson's heirs without probate.]]</li>
+<li>[[b. Johnson's heirs with probate.]]</li>
+<li>[[c. Moscowitz without probate]]</li>
+<li>[[]]</li>
+</ul>
+</div>
+::a. Johnson's heirs without probate.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|a. remains her separate property unless commingled.]]
+</div>
+::b. Johnson's heirs with probate.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|a. remains her separate property unless commingled.]]
+</div>
+::c. Moscowitz without probate
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|a. remains her separate property unless commingled.]]
+</div>
+::
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|a. remains her separate property unless commingled.]]
+</div>
+::15. Susan owned a home prior to marriage to Carlos. Upon marriage, Susan's home:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>15. Susan owned a home prior to marriage to Carlos. Upon marriage, Susan's home: </h3>
+<ul>
+<li>[[a. remains her separate property unless commingled.]]</li>
+<li>[[b. automatically becomes community property.]]</li>
+<li>[[c. is converted to joint tenancy.]]</li>
+<li>[[d. must have a deed recorded showing her married name as long as the property is not commingled with community property.]]</li>
+</ul>
+</div>
+::a. remains her separate property unless commingled.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|16. A married couple is planning to purchase a home. If they want to take title in such a way as to be able to will their separate interest, they should take title as:]]
+</div>
+::b. automatically becomes community property.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|16. A married couple is planning to purchase a home. If they want to take title in such a way as to be able to will their separate interest, they should take title as:]]
+</div>
+::c. is converted to joint tenancy.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|16. A married couple is planning to purchase a home. If they want to take title in such a way as to be able to will their separate interest, they should take title as:]]
+</div>
+::d. must have a deed recorded showing her married name as long as the property is not commingled with community property.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|16. A married couple is planning to purchase a home. If they want to take title in such a way as to be able to will their separate interest, they should take title as:]]
+</div>
+::16. A married couple is planning to purchase a home. If they want to take title in such a way as to be able to will their separate interest, they should take title as:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>16. A married couple is planning to purchase a home. If they want to take title in such a way as to be able to will their separate interest, they should take title as: </h3>
+<ul>
+<li>[[a. community property, without the right of survivorship.]]</li>
+<li>[[b. joint tenants.]]</li>
+<li>[[c. limited partners.]]</li>
+<li>[[d. any of the above.]]</li>
+</ul>
+</div>
+::a. community property, without the right of survivorship.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|17. Mr. Rhu deeds a life estate to Ms. Silva with the stipulation that upon her death the property comes back to him. If Rhu and Silva are killed together in an auto accident, who gets the property?]]
+</div>
+::b. joint tenants.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|17. Mr. Rhu deeds a life estate to Ms. Silva with the stipulation that upon her death the property comes back to him. If Rhu and Silva are killed together in an auto accident, who gets the property?]]
+</div>
+::c. limited partners.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|17. Mr. Rhu deeds a life estate to Ms. Silva with the stipulation that upon her death the property comes back to him. If Rhu and Silva are killed together in an auto accident, who gets the property?]]
+</div>
+::d. any of the above.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|17. Mr. Rhu deeds a life estate to Ms. Silva with the stipulation that upon her death the property comes back to him. If Rhu and Silva are killed together in an auto accident, who gets the property?]]
+</div>
+::17. Mr. Rhu deeds a life estate to Ms. Silva with the stipulation that upon her death the property comes back to him. If Rhu and Silva are killed together in an auto accident, who gets the property?
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>17. Mr. Rhu deeds a life estate to Ms. Silva with the stipulation that upon her death the property comes back to him. If Rhu and Silva are killed together in an auto accident, who gets the property? </h3>
+<ul>
+<li>[[a. it escheats to the state]]</li>
+<li>[[b. Rhu's heirs and devisees]]</li>
+<li>[[c. Silva's heirs]]</li>
+<li>[[d. the county where property is located]]</li>
+</ul>
+</div>
+::a. it escheats to the state
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|18. Which of the following is considered concurrent ownership?]]
+</div>
+::b. Rhu's heirs and devisees
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|18. Which of the following is considered concurrent ownership?]]
+</div>
+::c. Silva's heirs
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|18. Which of the following is considered concurrent ownership?]]
+</div>
+::d. the county where property is located
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|18. Which of the following is considered concurrent ownership?]]
+</div>
+::18. Which of the following is considered concurrent ownership?
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>18. Which of the following is considered concurrent ownership? </h3>
+<ul>
+<li>[[a. as an unmarried person]]</li>
+<li>[[b. community property]]</li>
+<li>[[c. as a widow]]</li>
+<li>[[d. none of the above]]</li>
+</ul>
+</div>
+::a. as an unmarried person
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|19. To have a valid joint tenancy, all the owner names must appear on the same document. This is known as the unity of:]]
+</div>
+::b. community property
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|19. To have a valid joint tenancy, all the owner names must appear on the same document. This is known as the unity of:]]
+</div>
+::c. as a widow
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|19. To have a valid joint tenancy, all the owner names must appear on the same document. This is known as the unity of:]]
+</div>
+::d. none of the above
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|19. To have a valid joint tenancy, all the owner names must appear on the same document. This is known as the unity of:]]
+</div>
+::19. To have a valid joint tenancy, all the owner names must appear on the same document. This is known as the unity of:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>19. To have a valid joint tenancy, all the owner names must appear on the same document. This is known as the unity of: </h3>
+<ul>
+<li>[[a. time.]]</li>
+<li>[[b. title.]]</li>
+<li>[[c. interest.]]</li>
+<li>[[d. possession tenancy.]]</li>
+</ul>
+</div>
+::a. time.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|20. Life estates are created by a:]]
+</div>
+::b. title.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|20. Life estates are created by a:]]
+</div>
+::c. interest.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|20. Life estates are created by a:]]
+</div>
+::d. possession tenancy.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|20. Life estates are created by a:]]
+</div>
+::20. Life estates are created by a:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>20. Life estates are created by a: </h3>
+<ul>
+<li>[[a. mortgage.]]</li>
+<li>[[b. deed.]]</li>
+<li>[[c. trust deed.]]</li>
+<li>[[d. both b and c.]]</li>
+</ul>
+</div>
+::a. mortgage.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|21. An easement across another person's land is:]]
+</div>
+::b. deed.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|21. An easement across another person's land is:]]
+</div>
+::c. trust deed.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|21. An easement across another person's land is:]]
+</div>
+::d. both b and c.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|21. An easement across another person's land is:]]
+</div>
+::21. An easement across another person's land is:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>21. An easement across another person's land is: </h3>
+<ul>
+<li>[[a. a voluntary lien.]]</li>
+<li>[[b. a general lien.]]</li>
+<li>[[c. an encumbrance.]]</li>
+<li>[[d. Two of the above are correct.]]</li>
+</ul>
+</div>
+::a. a voluntary lien.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|22. If an owner fails to file a proper Notice of Completion in the County Recorder's office, all]]
+</div>
+::b. a general lien.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|22. If an owner fails to file a proper Notice of Completion in the County Recorder's office, all]]
+</div>
+::c. an encumbrance.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|22. If an owner fails to file a proper Notice of Completion in the County Recorder's office, all]]
+</div>
+::d. Two of the above are correct.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|22. If an owner fails to file a proper Notice of Completion in the County Recorder's office, all]]
+</div>
+::22. If an owner fails to file a proper Notice of Completion in the County Recorder's office, all
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>22. If an owner fails to file a proper Notice of Completion in the County Recorder's office, all </h3>
+<ul>
+<li>[[unpaid mechanics have how many days to file a lien?]]</li>
+<li>[[a. 30 days]]</li>
+<li>[[b. 60 days]]</li>
+<li>[[c. 90 days]]</li>
+</ul>
+</div>
+::unpaid mechanics have how many days to file a lien?
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|]]
+</div>
+::a. 30 days
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|]]
+</div>
+::b. 60 days
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|]]
+</div>
+::c. 90 days
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|]]
+</div>
+::23. For a formally declared homestead to be valid, it must be:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>23. For a formally declared homestead to be valid, it must be: </h3>
+<ul>
+<li>[[a. recorded.]]</li>
+<li>[[b. owner-occupied at all times.]]</li>
+<li>[[c. placed on a conventional home, not on a mobile home.]]</li>
+<li>[[d. Two of the above are correct.]]</li>
+</ul>
+</div>
+::a. recorded.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|24. A homestead is considered terminated when:]]
+</div>
+::b. owner-occupied at all times.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|24. A homestead is considered terminated when:]]
+</div>
+::c. placed on a conventional home, not on a mobile home.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|24. A homestead is considered terminated when:]]
+</div>
+::d. Two of the above are correct.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|24. A homestead is considered terminated when:]]
+</div>
+::24. A homestead is considered terminated when:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>24. A homestead is considered terminated when: </h3>
+<ul>
+<li>[[a. the home is rented to a tenant.]]</li>
+<li>[[b. a final decree of divorce is granted.]]</li>
+<li>[[c. the home is sold.]]</li>
+<li>[[d. an abstract of judgment is recorded.]]</li>
+</ul>
+</div>
+::a. the home is rented to a tenant.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|25. Sohal owns a home and has an easement over 20 feet of Lightfoot's land. Sohal sells to]]
+</div>
+::b. a final decree of divorce is granted.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|25. Sohal owns a home and has an easement over 20 feet of Lightfoot's land. Sohal sells to]]
+</div>
+::c. the home is sold.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|25. Sohal owns a home and has an easement over 20 feet of Lightfoot's land. Sohal sells to]]
+</div>
+::d. an abstract of judgment is recorded.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|25. Sohal owns a home and has an easement over 20 feet of Lightfoot's land. Sohal sells to]]
+</div>
+::25. Sohal owns a home and has an easement over 20 feet of Lightfoot's land. Sohal sells to
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>25. Sohal owns a home and has an easement over 20 feet of Lightfoot's land. Sohal sells to </h3>
+<ul>
+<li>[[Carter. Based on this information:]]</li>
+<li>[[a. Carter is the servient tenement.]]</li>
+<li>[[b. The easement is terminated.]]</li>
+<li>[[c. Lightfoot has a lien.]]</li>
+</ul>
+</div>
+::Carter. Based on this information:
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|]]
+</div>
+::a. Carter is the servient tenement.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|]]
+</div>
+::b. The easement is terminated.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|]]
+</div>
+::c. Lightfoot has a lien.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|]]
+</div>
+::26. A homestead, within the statutory amounts, will not protect against:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>26. A homestead, within the statutory amounts, will not protect against: </h3>
+<ul>
+<li>[[a. after recorded judgments.]]</li>
+<li>[[b. mechanics' liens.]]</li>
+<li>[[c. unsecured money debts that become secured by judgments.]]</li>
+<li>[[d. after recorded attachments.]]</li>
+</ul>
+</div>
+::a. after recorded judgments.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|27. A court order to force the sale of real estate to pay a judgment is called:]]
+</div>
+::b. mechanics' liens.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|27. A court order to force the sale of real estate to pay a judgment is called:]]
+</div>
+::c. unsecured money debts that become secured by judgments.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|27. A court order to force the sale of real estate to pay a judgment is called:]]
+</div>
+::d. after recorded attachments.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|27. A court order to force the sale of real estate to pay a judgment is called:]]
+</div>
+::27. A court order to force the sale of real estate to pay a judgment is called:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>27. A court order to force the sale of real estate to pay a judgment is called: </h3>
+<ul>
+<li>[[a. an attachment.]]</li>
+<li>[[b. a writ of execution.]]</li>
+<li>[[c. a deficiency judgment.]]</li>
+<li>[[d. a foreclosure.]]</li>
+</ul>
+</div>
+::a. an attachment.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|28. The landlord has come by on the first of the month to collect rent from the tenant. He notices work on a new patio has begun, which he has not authorized. The tenant is not at home to ask about this new structure. The landlord should immediately:]]
+</div>
+::b. a writ of execution.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|28. The landlord has come by on the first of the month to collect rent from the tenant. He notices work on a new patio has begun, which he has not authorized. The tenant is not at home to ask about this new structure. The landlord should immediately:]]
+</div>
+::c. a deficiency judgment.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|28. The landlord has come by on the first of the month to collect rent from the tenant. He notices work on a new patio has begun, which he has not authorized. The tenant is not at home to ask about this new structure. The landlord should immediately:]]
+</div>
+::d. a foreclosure.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|28. The landlord has come by on the first of the month to collect rent from the tenant. He notices work on a new patio has begun, which he has not authorized. The tenant is not at home to ask about this new structure. The landlord should immediately:]]
+</div>
+::28. The landlord has come by on the first of the month to collect rent from the tenant. He notices work on a new patio has begun, which he has not authorized. The tenant is not at home to ask about this new structure. The landlord should immediately:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>28. The landlord has come by on the first of the month to collect rent from the tenant. He notices work on a new patio has begun, which he has not authorized. The tenant is not at home to ask about this new structure. The landlord should immediately: </h3>
+<ul>
+<li>[[a. file a mechanic’s lien.]]</li>
+<li>[[b. file a notice of cessation.]]</li>
+<li>[[c. file a notice of completion.]]</li>
+<li>[[d. file a notice of non-responsibility.]]</li>
+</ul>
+</div>
+::a. file a mechanic’s lien.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|29. Public restrictions are imposed on properties:]]
+</div>
+::b. file a notice of cessation.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|29. Public restrictions are imposed on properties:]]
+</div>
+::c. file a notice of completion.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|29. Public restrictions are imposed on properties:]]
+</div>
+::d. file a notice of non-responsibility.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|29. Public restrictions are imposed on properties:]]
+</div>
+::29. Public restrictions are imposed on properties:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>29. Public restrictions are imposed on properties: </h3>
+<ul>
+<li>[[a. to make it difficult to obtain permits.]]</li>
+<li>[[b. to protect the health and safety of the citizens.]]</li>
+<li>[[c. so the homeowner's association cannot impose more restrictive regulations.]]</li>
+<li>[[d. to assist the owner's personal desire when building.]]</li>
+</ul>
+</div>
+::a. to make it difficult to obtain permits.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|30. A judgment is considered to be what type of lien?]]
+</div>
+::b. to protect the health and safety of the citizens.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|30. A judgment is considered to be what type of lien?]]
+</div>
+::c. so the homeowner's association cannot impose more restrictive regulations.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|30. A judgment is considered to be what type of lien?]]
+</div>
+::d. to assist the owner's personal desire when building.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|30. A judgment is considered to be what type of lien?]]
+</div>
+::30. A judgment is considered to be what type of lien?
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>30. A judgment is considered to be what type of lien? </h3>
+<ul>
+<li>[[a. constructive]]</li>
+<li>[[b. voluntary]]</li>
+<li>[[c. general]]</li>
+<li>[[d. specific]]</li>
+</ul>
+</div>
+::a. constructive
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|31. A real estate promissory note that reads "$200,000 principal payable interest only monthly at a rate of 7%" is what type of promissory note?]]
+</div>
+::b. voluntary
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|31. A real estate promissory note that reads "$200,000 principal payable interest only monthly at a rate of 7%" is what type of promissory note?]]
+</div>
+::c. general
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|31. A real estate promissory note that reads "$200,000 principal payable interest only monthly at a rate of 7%" is what type of promissory note?]]
+</div>
+::d. specific
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|31. A real estate promissory note that reads "$200,000 principal payable interest only monthly at a rate of 7%" is what type of promissory note?]]
+</div>
+::31. A real estate promissory note that reads "$200,000 principal payable interest only monthly at a rate of 7%" is what type of promissory note?
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>31. A real estate promissory note that reads "$200,000 principal payable interest only monthly at a rate of 7%" is what type of promissory note? </h3>
+<ul>
+<li>[[a. straight]]</li>
+<li>[[b. installment]]</li>
+<li>[[c. principal and interest]]</li>
+<li>[[d. accommodation]]</li>
+</ul>
+</div>
+::a. straight
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|32. All of the following involve one phase of real estate financing except:]]
+</div>
+::b. installment
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|32. All of the following involve one phase of real estate financing except:]]
+</div>
+::c. principal and interest
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|32. All of the following involve one phase of real estate financing except:]]
+</div>
+::d. accommodation
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|32. All of the following involve one phase of real estate financing except:]]
+</div>
+::32. All of the following involve one phase of real estate financing except:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>32. All of the following involve one phase of real estate financing except: </h3>
+<ul>
+<li>[[a. application.]]</li>
+<li>[[b. analyzing.]]</li>
+<li>[[c. leveraging.]]</li>
+<li>[[d. closing.]]</li>
+</ul>
+</div>
+::a. application.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|33. An enforceable due-on-sale clause is correctly called an:]]
+</div>
+::b. analyzing.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|33. An enforceable due-on-sale clause is correctly called an:]]
+</div>
+::c. leveraging.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|33. An enforceable due-on-sale clause is correctly called an:]]
+</div>
+::d. closing.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|33. An enforceable due-on-sale clause is correctly called an:]]
+</div>
+::33. An enforceable due-on-sale clause is correctly called an:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>33. An enforceable due-on-sale clause is correctly called an: </h3>
+<ul>
+<li>[[a. acceleration clause.]]</li>
+<li>[[b. alienation clause.]]</li>
+<li>[[c. wrap around clause.]]</li>
+<li>[[d. prepay clause.]]</li>
+</ul>
+</div>
+::a. acceleration clause.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|34. A negative amortized ARM means:]]
+</div>
+::b. alienation clause.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|34. A negative amortized ARM means:]]
+</div>
+::c. wrap around clause.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|34. A negative amortized ARM means:]]
+</div>
+::d. prepay clause.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|34. A negative amortized ARM means:]]
+</div>
+::34. A negative amortized ARM means:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>34. A negative amortized ARM means: </h3>
+<ul>
+<li>[[a. It can cause some problems in later years.]]</li>
+<li>[[b. The payments may not cover the annual interest.]]</li>
+<li>[[c. The unpaid interest is added to the principal.]]</li>
+<li>[[d. All of the above are true.]]</li>
+</ul>
+</div>
+::a. It can cause some problems in later years.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|35. Under the Trustee's Sale procedure, after a Notice of Default has been recorded, a borrower has how long to reinstate by making up past payments, penalties, late charges, and trustee expenses?]]
+</div>
+::b. The payments may not cover the annual interest.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|35. Under the Trustee's Sale procedure, after a Notice of Default has been recorded, a borrower has how long to reinstate by making up past payments, penalties, late charges, and trustee expenses?]]
+</div>
+::c. The unpaid interest is added to the principal.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|35. Under the Trustee's Sale procedure, after a Notice of Default has been recorded, a borrower has how long to reinstate by making up past payments, penalties, late charges, and trustee expenses?]]
+</div>
+::d. All of the above are true.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|35. Under the Trustee's Sale procedure, after a Notice of Default has been recorded, a borrower has how long to reinstate by making up past payments, penalties, late charges, and trustee expenses?]]
+</div>
+::35. Under the Trustee's Sale procedure, after a Notice of Default has been recorded, a borrower has how long to reinstate by making up past payments, penalties, late charges, and trustee expenses?
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>35. Under the Trustee's Sale procedure, after a Notice of Default has been recorded, a borrower has how long to reinstate by making up past payments, penalties, late charges, and trustee expenses? </h3>
+<ul>
+<li>[[a. 5 days prior to trustee's sale date]]</li>
+<li>[[b. 90 days]]</li>
+<li>[[c. 3 months]]</li>
+<li>[[d. 1 year]]</li>
+</ul>
+</div>
+::a. 5 days prior to trustee's sale date
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|36. If a real estate loan is paid off in advance of the due date, some lenders are legally allowed to charge a penalty. This is called what type of penalty?]]
+</div>
+::b. 90 days
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|36. If a real estate loan is paid off in advance of the due date, some lenders are legally allowed to charge a penalty. This is called what type of penalty?]]
+</div>
+::c. 3 months
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|36. If a real estate loan is paid off in advance of the due date, some lenders are legally allowed to charge a penalty. This is called what type of penalty?]]
+</div>
+::d. 1 year
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|36. If a real estate loan is paid off in advance of the due date, some lenders are legally allowed to charge a penalty. This is called what type of penalty?]]
+</div>
+::36. If a real estate loan is paid off in advance of the due date, some lenders are legally allowed to charge a penalty. This is called what type of penalty?
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>36. If a real estate loan is paid off in advance of the due date, some lenders are legally allowed to charge a penalty. This is called what type of penalty? </h3>
+<ul>
+<li>[[a. acceleration]]</li>
+<li>[[b. alienation]]</li>
+<li>[[c. prepayment]]</li>
+<li>[[d. balloon]]</li>
+</ul>
+</div>
+::a. acceleration
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|37. RESPA stands for:]]
+</div>
+::b. alienation
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|37. RESPA stands for:]]
+</div>
+::c. prepayment
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|37. RESPA stands for:]]
+</div>
+::d. balloon
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|37. RESPA stands for:]]
+</div>
+::37. RESPA stands for:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>37. RESPA stands for: </h3>
+<ul>
+<li>[[a. Real Estate Settlement Procedures Act.]]</li>
+<li>[[b. Real Estate Salesperson Association.]]</li>
+<li>[[c. Real Estate Syndication Planning Act.]]</li>
+<li>[[d. Real Estate Settlement Program Act.]]</li>
+</ul>
+</div>
+::a. Real Estate Settlement Procedures Act.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|38. An owner sells and the buyer takes over the existing loan. To relieve the seller of primary liability, the buyer must:]]
+</div>
+::b. Real Estate Salesperson Association.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|38. An owner sells and the buyer takes over the existing loan. To relieve the seller of primary liability, the buyer must:]]
+</div>
+::c. Real Estate Syndication Planning Act.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|38. An owner sells and the buyer takes over the existing loan. To relieve the seller of primary liability, the buyer must:]]
+</div>
+::d. Real Estate Settlement Program Act.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|38. An owner sells and the buyer takes over the existing loan. To relieve the seller of primary liability, the buyer must:]]
+</div>
+::38. An owner sells and the buyer takes over the existing loan. To relieve the seller of primary liability, the buyer must:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>38. An owner sells and the buyer takes over the existing loan. To relieve the seller of primary liability, the buyer must: </h3>
+<ul>
+<li>[[a. sign a non-recourse agreement.]]</li>
+<li>[[b. take title contingent upon the note and trust deed.]]</li>
+<li>[[c. take title subject to the note and trust deed.]]</li>
+<li>[[d. assume the note and trust deed.]]</li>
+</ul>
+</div>
+::a. sign a non-recourse agreement.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|39. In an ARM loan, the distance between the borrower's rate and the index is called the:]]
+</div>
+::b. take title contingent upon the note and trust deed.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|39. In an ARM loan, the distance between the borrower's rate and the index is called the:]]
+</div>
+::c. take title subject to the note and trust deed.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|39. In an ARM loan, the distance between the borrower's rate and the index is called the:]]
+</div>
+::d. assume the note and trust deed.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|39. In an ARM loan, the distance between the borrower's rate and the index is called the:]]
+</div>
+::39. In an ARM loan, the distance between the borrower's rate and the index is called the:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>39. In an ARM loan, the distance between the borrower's rate and the index is called the: </h3>
+<ul>
+<li>[[a. cap.]]</li>
+<li>[[b. adjustment.]]</li>
+<li>[[c. margin.]]</li>
+<li>[[d. teaser.]]</li>
+</ul>
+</div>
+::a. cap.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|40. A clause in a trust deed that states that the lender's rights shall become secondary to a new trust deed is called:]]
+</div>
+::b. adjustment.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|40. A clause in a trust deed that states that the lender's rights shall become secondary to a new trust deed is called:]]
+</div>
+::c. margin.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|40. A clause in a trust deed that states that the lender's rights shall become secondary to a new trust deed is called:]]
+</div>
+::d. teaser.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|40. A clause in a trust deed that states that the lender's rights shall become secondary to a new trust deed is called:]]
+</div>
+::40. A clause in a trust deed that states that the lender's rights shall become secondary to a new trust deed is called:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>40. A clause in a trust deed that states that the lender's rights shall become secondary to a new trust deed is called: </h3>
+<ul>
+<li>[[a. an alienation clause.]]</li>
+<li>[[b. a subordination clause.]]</li>
+<li>[[c. a submortgage.]]</li>
+<li>[[d. an escalation clause.]]</li>
+</ul>
+</div>
+::a. an alienation clause.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|41. Which of the following words expresses a meaning most completely opposite to the term "alienation"?]]
+</div>
+::b. a subordination clause.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|41. Which of the following words expresses a meaning most completely opposite to the term "alienation"?]]
+</div>
+::c. a submortgage.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|41. Which of the following words expresses a meaning most completely opposite to the term "alienation"?]]
+</div>
+::d. an escalation clause.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|41. Which of the following words expresses a meaning most completely opposite to the term "alienation"?]]
+</div>
+::41. Which of the following words expresses a meaning most completely opposite to the term "alienation"?
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>41. Which of the following words expresses a meaning most completely opposite to the term "alienation"? </h3>
+<ul>
+<li>[[a. amortization]]</li>
+<li>[[b. ad valorem]]</li>
+<li>[[c. acquisition]]</li>
+<li>[[d. acceleration]]</li>
+</ul>
+</div>
+::a. amortization
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|42. For loans that fall under the California usury law, the maximum interest rate is:]]
+</div>
+::b. ad valorem
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|42. For loans that fall under the California usury law, the maximum interest rate is:]]
+</div>
+::c. acquisition
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|42. For loans that fall under the California usury law, the maximum interest rate is:]]
+</div>
+::d. acceleration
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|42. For loans that fall under the California usury law, the maximum interest rate is:]]
+</div>
+::42. For loans that fall under the California usury law, the maximum interest rate is:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>42. For loans that fall under the California usury law, the maximum interest rate is: </h3>
+<ul>
+<li>[[a. 5% above the Federal Funds Rate.]]</li>
+<li>[[b. 10% or 5% above the Federal Reserve Discount Rate, whichever is greater.]]</li>
+<li>[[c. 10% or 5% above the Federal Reserve Discount Rate, whichever is lesser.]]</li>
+<li>[[d. 10% above the Prime Rate.]]</li>
+</ul>
+</div>
+::a. 5% above the Federal Funds Rate.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|43. The lower the ratio used to qualify the borrower for a real estate loan, the:]]
+</div>
+::b. 10% or 5% above the Federal Reserve Discount Rate, whichever is greater.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|43. The lower the ratio used to qualify the borrower for a real estate loan, the:]]
+</div>
+::c. 10% or 5% above the Federal Reserve Discount Rate, whichever is lesser.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|43. The lower the ratio used to qualify the borrower for a real estate loan, the:]]
+</div>
+::d. 10% above the Prime Rate.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|43. The lower the ratio used to qualify the borrower for a real estate loan, the:]]
+</div>
+::43. The lower the ratio used to qualify the borrower for a real estate loan, the:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>43. The lower the ratio used to qualify the borrower for a real estate loan, the: </h3>
+<ul>
+<li>[[a. less net income is needed.]]</li>
+<li>[[b. more gross income is needed.]]</li>
+<li>[[c. less gross income is needed.]]</li>
+<li>[[d. more net income is needed.]]</li>
+</ul>
+</div>
+::a. less net income is needed.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|44. Which of the following is an institutional lender?]]
+</div>
+::b. more gross income is needed.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|44. Which of the following is an institutional lender?]]
+</div>
+::c. less gross income is needed.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|44. Which of the following is an institutional lender?]]
+</div>
+::d. more net income is needed.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|44. Which of the following is an institutional lender?]]
+</div>
+::44. Which of the following is an institutional lender?
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>44. Which of the following is an institutional lender? </h3>
+<ul>
+<li>[[a. credit union]]</li>
+<li>[[b. mortgage company]]</li>
+<li>[[c. life insurance company]]</li>
+<li>[[d. pension fund]]</li>
+</ul>
+</div>
+::a. credit union
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|45. The three major credit reporting agencies are:]]
+</div>
+::b. mortgage company
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|45. The three major credit reporting agencies are:]]
+</div>
+::c. life insurance company
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|45. The three major credit reporting agencies are:]]
+</div>
+::d. pension fund
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|45. The three major credit reporting agencies are:]]
+</div>
+::45. The three major credit reporting agencies are:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>45. The three major credit reporting agencies are: </h3>
+<ul>
+<li>[[a. Experian, TRW, and Equifax.]]</li>
+<li>[[b. Experian, Equifax, and TransUnion.]]</li>
+<li>[[c. TRW, Equifax, and FICO.]]</li>
+<li>[[d. Equifax, Experian, and Franklin.]]</li>
+</ul>
+</div>
+::a. Experian, TRW, and Equifax.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|46. A Seller's Financial Disclosure Statement must be signed by the:]]
+</div>
+::b. Experian, Equifax, and TransUnion.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|46. A Seller's Financial Disclosure Statement must be signed by the:]]
+</div>
+::c. TRW, Equifax, and FICO.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|46. A Seller's Financial Disclosure Statement must be signed by the:]]
+</div>
+::d. Equifax, Experian, and Franklin.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|46. A Seller's Financial Disclosure Statement must be signed by the:]]
+</div>
+::46. A Seller's Financial Disclosure Statement must be signed by the:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>46. A Seller's Financial Disclosure Statement must be signed by the: </h3>
+<ul>
+<li>[[a. buyer.]]</li>
+<li>[[b. seller.]]</li>
+<li>[[c. broker.]]</li>
+<li>[[d. all of the above.]]</li>
+</ul>
+</div>
+::a. buyer.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|47. A credit report is used to help measure a borrower's:]]
+</div>
+::b. seller.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|47. A credit report is used to help measure a borrower's:]]
+</div>
+::c. broker.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|47. A credit report is used to help measure a borrower's:]]
+</div>
+::d. all of the above.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|47. A credit report is used to help measure a borrower's:]]
+</div>
+::47. A credit report is used to help measure a borrower's:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>47. A credit report is used to help measure a borrower's: </h3>
+<ul>
+<li>[[a. capacity to pay.]]</li>
+<li>[[b. desire to pay.]]</li>
+<li>[[c. income ratio.]]</li>
+<li>[[d. qualifying ratio.]]</li>
+</ul>
+</div>
+::a. capacity to pay.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|48. Sylvia wants to purchase a home. She is recently divorced and is receiving alimony for the next ten years in addition to child support for her three year old son. She has been in her present job for five years. What sources of income can she include in her loan application?]]
+</div>
+::b. desire to pay.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|48. Sylvia wants to purchase a home. She is recently divorced and is receiving alimony for the next ten years in addition to child support for her three year old son. She has been in her present job for five years. What sources of income can she include in her loan application?]]
+</div>
+::c. income ratio.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|48. Sylvia wants to purchase a home. She is recently divorced and is receiving alimony for the next ten years in addition to child support for her three year old son. She has been in her present job for five years. What sources of income can she include in her loan application?]]
+</div>
+::d. qualifying ratio.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|48. Sylvia wants to purchase a home. She is recently divorced and is receiving alimony for the next ten years in addition to child support for her three year old son. She has been in her present job for five years. What sources of income can she include in her loan application?]]
+</div>
+::48. Sylvia wants to purchase a home. She is recently divorced and is receiving alimony for the next ten years in addition to child support for her three year old son. She has been in her present job for five years. What sources of income can she include in her loan application?
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>48. Sylvia wants to purchase a home. She is recently divorced and is receiving alimony for the next ten years in addition to child support for her three year old son. She has been in her present job for five years. What sources of income can she include in her loan application? </h3>
+<ul>
+<li>[[a. her salary from her job and alimony]]</li>
+<li>[[b. her salary from her job only]]</li>
+<li>[[c. her salary from her job and child support]]</li>
+<li>[[d. her salary from her job, alimony, and child support]]</li>
+</ul>
+</div>
+::a. her salary from her job and alimony
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|49. The ultimate source of all loan funds is:]]
+</div>
+::b. her salary from her job only
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|49. The ultimate source of all loan funds is:]]
+</div>
+::c. her salary from her job and child support
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|49. The ultimate source of all loan funds is:]]
+</div>
+::d. her salary from her job, alimony, and child support
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|49. The ultimate source of all loan funds is:]]
+</div>
+::49. The ultimate source of all loan funds is:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>49. The ultimate source of all loan funds is: </h3>
+<ul>
+<li>[[a. taxes.]]</li>
+<li>[[b. government spending.]]</li>
+<li>[[c. transfer payments.]]</li>
+<li>[[d. savings.]]</li>
+</ul>
+</div>
+::a. taxes.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|50. A secondary mortgage market is where:]]
+</div>
+::b. government spending.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|50. A secondary mortgage market is where:]]
+</div>
+::c. transfer payments.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|50. A secondary mortgage market is where:]]
+</div>
+::d. savings.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|50. A secondary mortgage market is where:]]
+</div>
+::50. A secondary mortgage market is where:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>50. A secondary mortgage market is where: </h3>
+<ul>
+<li>[[a. existing lenders sell to other lenders and investors.]]</li>
+<li>[[b. a seller carries a junior trust deed.]]</li>
+<li>[[c. the supply of funds available for real estate loans is decreased.]]</li>
+<li>[[d. the Federal Reserve tightens mortgage interest rates.]]</li>
+</ul>
+</div>
+::a. existing lenders sell to other lenders and investors.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|51. Fannie Mae is the:]]
+</div>
+::b. a seller carries a junior trust deed.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|51. Fannie Mae is the:]]
+</div>
+::c. the supply of funds available for real estate loans is decreased.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|51. Fannie Mae is the:]]
+</div>
+::d. the Federal Reserve tightens mortgage interest rates.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|51. Fannie Mae is the:]]
+</div>
+::51. Fannie Mae is the:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>51. Fannie Mae is the: </h3>
+<ul>
+<li>[[a. Federal Home Loan Mortgage Corporation.]]</li>
+<li>[[b. Federal National Mortgage Association.]]</li>
+<li>[[c. Government National Mortgage Association.]]</li>
+<li>[[d. Federal Deposit Insurance Corporation.]]</li>
+</ul>
+</div>
+::a. Federal Home Loan Mortgage Corporation.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|52. Which of the following are major types of California lenders?]]
+</div>
+::b. Federal National Mortgage Association.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|52. Which of the following are major types of California lenders?]]
+</div>
+::c. Government National Mortgage Association.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|52. Which of the following are major types of California lenders?]]
+</div>
+::d. Federal Deposit Insurance Corporation.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|52. Which of the following are major types of California lenders?]]
+</div>
+::52. Which of the following are major types of California lenders?
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>52. Which of the following are major types of California lenders? </h3>
+<ul>
+<li>[[a. commercial banks]]</li>
+<li>[[b. savings banks]]</li>
+<li>[[c. life insurance companies]]</li>
+<li>[[d. all of the above]]</li>
+</ul>
+</div>
+::a. commercial banks
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|53. Who does not lend their money, but instead earns a fee for bringing a borrower and lender together?]]
+</div>
+::b. savings banks
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|53. Who does not lend their money, but instead earns a fee for bringing a borrower and lender together?]]
+</div>
+::c. life insurance companies
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|53. Who does not lend their money, but instead earns a fee for bringing a borrower and lender together?]]
+</div>
+::d. all of the above
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|53. Who does not lend their money, but instead earns a fee for bringing a borrower and lender together?]]
+</div>
+::53. Who does not lend their money, but instead earns a fee for bringing a borrower and lender together?
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>53. Who does not lend their money, but instead earns a fee for bringing a borrower and lender together? </h3>
+<ul>
+<li>[[a. mortgage banker]]</li>
+<li>[[b. mortgage broker]]</li>
+<li>[[c. mortgage consultant]]</li>
+<li>[[d. mortgage investor]]</li>
+</ul>
+</div>
+::a. mortgage banker
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|54. Insurance companies are one of the major sources for conventional loans. Insurance companies:]]
+</div>
+::b. mortgage broker
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|54. Insurance companies are one of the major sources for conventional loans. Insurance companies:]]
+</div>
+::c. mortgage consultant
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|54. Insurance companies are one of the major sources for conventional loans. Insurance companies:]]
+</div>
+::d. mortgage investor
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|54. Insurance companies are one of the major sources for conventional loans. Insurance companies:]]
+</div>
+::54. Insurance companies are one of the major sources for conventional loans. Insurance companies:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>54. Insurance companies are one of the major sources for conventional loans. Insurance companies: </h3>
+<ul>
+<li>[[a. generally do not use the services of a loan correspondent.]]</li>
+<li>[[b. restrict their loans to the immediate area of their home office.]]</li>
+<li>[[c. loan funds primarily on large commercial properties.]]</li>
+<li>[[d. have only a minor portion of their money in mortgages.]]</li>
+</ul>
+</div>
+::a. generally do not use the services of a loan correspondent.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|55. The Private Mortgage Insurance system:]]
+</div>
+::b. restrict their loans to the immediate area of their home office.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|55. The Private Mortgage Insurance system:]]
+</div>
+::c. loan funds primarily on large commercial properties.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|55. The Private Mortgage Insurance system:]]
+</div>
+::d. have only a minor portion of their money in mortgages.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|55. The Private Mortgage Insurance system:]]
+</div>
+::55. The Private Mortgage Insurance system:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>55. The Private Mortgage Insurance system: </h3>
+<ul>
+<li>[[a. costs too much.]]</li>
+<li>[[b. qualifies the buyer for real estate loans.]]</li>
+<li>[[c. requires 20 percent down.]]</li>
+<li>[[d. stimulates the housing market.]]</li>
+</ul>
+</div>
+::a. costs too much.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|56. Which of the following best defines a portfolio loan?]]
+</div>
+::b. qualifies the buyer for real estate loans.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|56. Which of the following best defines a portfolio loan?]]
+</div>
+::c. requires 20 percent down.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|56. Which of the following best defines a portfolio loan?]]
+</div>
+::d. stimulates the housing market.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|56. Which of the following best defines a portfolio loan?]]
+</div>
+::56. Which of the following best defines a portfolio loan?
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>56. Which of the following best defines a portfolio loan? </h3>
+<ul>
+<li>[[a. a mortgage used to acquire property]]</li>
+<li>[[b. a single mortgage]]</li>
+<li>[[c. a mortgage that includes chattels]]</li>
+<li>[[d. a loan that will not be sold on the secondary mortgage market]]</li>
+</ul>
+</div>
+::a. a mortgage used to acquire property
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|57. Private mortgage insurance (PMI):]]
+</div>
+::b. a single mortgage
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|57. Private mortgage insurance (PMI):]]
+</div>
+::c. a mortgage that includes chattels
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|57. Private mortgage insurance (PMI):]]
+</div>
+::d. a loan that will not be sold on the secondary mortgage market
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|57. Private mortgage insurance (PMI):]]
+</div>
+::57. Private mortgage insurance (PMI):
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>57. Private mortgage insurance (PMI): </h3>
+<ul>
+<li>[[a. makes the payments if the borrower gets disabled.]]</li>
+<li>[[b. is paid for by the lender.]]</li>
+<li>[[c. pays the loan off if the borrower dies.]]</li>
+<li>[[d. insures the lender for the top portion of the loan.]]</li>
+</ul>
+</div>
+::a. makes the payments if the borrower gets disabled.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|58. The most important consideration in an appraisal is the:]]
+</div>
+::b. is paid for by the lender.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|58. The most important consideration in an appraisal is the:]]
+</div>
+::c. pays the loan off if the borrower dies.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|58. The most important consideration in an appraisal is the:]]
+</div>
+::d. insures the lender for the top portion of the loan.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|58. The most important consideration in an appraisal is the:]]
+</div>
+::58. The most important consideration in an appraisal is the:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>58. The most important consideration in an appraisal is the: </h3>
+<ul>
+<li>[[a. methods used.]]</li>
+<li>[[b. experience, license, and integrity of the appraiser.]]</li>
+<li>[[c. data gathered.]]</li>
+<li>[[d. inspection of the title records.]]</li>
+</ul>
+</div>
+::a. methods used.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|59. The essentials of value include all of the following, except:]]
+</div>
+::b. experience, license, and integrity of the appraiser.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|59. The essentials of value include all of the following, except:]]
+</div>
+::c. data gathered.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|59. The essentials of value include all of the following, except:]]
+</div>
+::d. inspection of the title records.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|59. The essentials of value include all of the following, except:]]
+</div>
+::59. The essentials of value include all of the following, except:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>59. The essentials of value include all of the following, except: </h3>
+<ul>
+<li>[[a. age.]]</li>
+<li>[[b. utility.]]</li>
+<li>[[c. scarcity.]]</li>
+<li>[[d. demand.]]</li>
+</ul>
+</div>
+::a. age.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|60. Land is valued at $80,000. New construction cost for a home 35 feet by 45 feet is $100 per square foot. For a garage 25 feet by 25 feet, the cost is $40 per square foot. Depreciation is 10% of new replacement cost. What is the value estimate?]]
+</div>
+::b. utility.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|60. Land is valued at $80,000. New construction cost for a home 35 feet by 45 feet is $100 per square foot. For a garage 25 feet by 25 feet, the cost is $40 per square foot. Depreciation is 10% of new replacement cost. What is the value estimate?]]
+</div>
+::c. scarcity.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|60. Land is valued at $80,000. New construction cost for a home 35 feet by 45 feet is $100 per square foot. For a garage 25 feet by 25 feet, the cost is $40 per square foot. Depreciation is 10% of new replacement cost. What is the value estimate?]]
+</div>
+::d. demand.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|60. Land is valued at $80,000. New construction cost for a home 35 feet by 45 feet is $100 per square foot. For a garage 25 feet by 25 feet, the cost is $40 per square foot. Depreciation is 10% of new replacement cost. What is the value estimate?]]
+</div>
+::60. Land is valued at $80,000. New construction cost for a home 35 feet by 45 feet is $100 per square foot. For a garage 25 feet by 25 feet, the cost is $40 per square foot. Depreciation is 10% of new replacement cost. What is the value estimate?
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>60. Land is valued at $80,000. New construction cost for a home 35 feet by 45 feet is $100 per square foot. For a garage 25 feet by 25 feet, the cost is $40 per square foot. Depreciation is 10% of new replacement cost. What is the value estimate? </h3>
+<ul>
+<li>[[a. $262,500]]</li>
+<li>[[b. $182,500]]</li>
+<li>[[c. $164,250]]</li>
+<li>[[d. $224,250]]</li>
+</ul>
+</div>
+::a. $262,500
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|61. Objective value is also known as:]]
+</div>
+::b. $182,500
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|61. Objective value is also known as:]]
+</div>
+::c. $164,250
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|61. Objective value is also known as:]]
+</div>
+::d. $224,250
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|61. Objective value is also known as:]]
+</div>
+::61. Objective value is also known as:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>61. Objective value is also known as: </h3>
+<ul>
+<li>[[a. value in use.]]</li>
+<li>[[b. market value.]]</li>
+<li>[[c. utility value.]]</li>
+<li>[[d. emotional value.]]</li>
+</ul>
+</div>
+::a. value in use.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|62. Real estate appraisers are needed to:]]
+</div>
+::b. market value.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|62. Real estate appraisers are needed to:]]
+</div>
+::c. utility value.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|62. Real estate appraisers are needed to:]]
+</div>
+::d. emotional value.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|62. Real estate appraisers are needed to:]]
+</div>
+::62. Real estate appraisers are needed to:
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>62. Real estate appraisers are needed to: </h3>
+<ul>
+<li>[[a. determine values for real property taxes.]]</li>
+<li>[[b. help set premiums on fire policies.]]</li>
+<li>[[c. estimate real estate loan values.]]</li>
+<li>[[d. all of the above.]]</li>
+</ul>
+</div>
+::a. determine values for real property taxes.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|63. In a small country town, an appraiser was asked to place a value on the Town Hall. It was a beautiful building with unique Roman architecture. Which approach would the appraiser most likely emphasize?]]
+</div>
+::b. help set premiums on fire policies.
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|63. In a small country town, an appraiser was asked to place a value on the Town Hall. It was a beautiful building with unique Roman architecture. Which approach would the appraiser most likely emphasize?]]
+</div>
+::c. estimate real estate loan values.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|63. In a small country town, an appraiser was asked to place a value on the Town Hall. It was a beautiful building with unique Roman architecture. Which approach would the appraiser most likely emphasize?]]
+</div>
+::d. all of the above.
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Next question?|63. In a small country town, an appraiser was asked to place a value on the Town Hall. It was a beautiful building with unique Roman architecture. Which approach would the appraiser most likely emphasize?]]
+</div>
+::63. In a small country town, an appraiser was asked to place a value on the Town Hall. It was a beautiful building with unique Roman architecture. Which approach would the appraiser most likely emphasize?
+<div id = "question">
+<div id = "scoreboard">
+<%= window.story.render("scoreboard") %>
+</div>
+<h3>63. In a small country town, an appraiser was asked to place a value on the Town Hall. It was a beautiful building with unique Roman architecture. Which approach would the appraiser most likely emphasize? </h3>
+<ul>
+<li>[[a. cost]]</li>
+<li>[[b. capitalization]]</li>
+<li>[[c. comparison]]</li>
+<li>[[d. gross rent multiplier]]</li>
+</ul>
+</div>
+::a. cost
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Score!]]
+</div>
+::b. capitalization
+<% story.state.variables.score += 100 %>
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Score!]]
+</div>
+::c. comparison
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Score!]]
+</div>
+::d. gross rent multiplier
+<div id = "answer"><div id = "scoreboard"><%= window.story.render("scoreboard") %></div>
+[[Score!]]
+</div>

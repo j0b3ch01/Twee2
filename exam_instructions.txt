@@ -1,0 +1,6 @@
+<h1>Answer all questions by choosing the most correct answer.</h1>
+<p>You'll see your score on each passage. What you're reading from now is a passage (basically a static web page).</p>
+<p>Everyone starts with 1000 points.<br/>
+Whoever finishes with the most points wins. Points depend on the difficulty of the question. Every wrong choice takes off 10 points no matter what; you'll never lose more than ten points per try but you could theoretically try one question over and over and lose all your points in the process.</p>
+<p>Which brings us to the time multiplier. The time multiplier starts at 30 seconds for each question. Any remaining time on the multiplier will be multiplied to the question score. </p>
+<block>E.g. Sam gets the right answer with 25 seconds left on the time multiplier. The question she got right was worth 100 points. With the time multiplier, Sam would have scored 2500 points (25 x 100 points).</block>
